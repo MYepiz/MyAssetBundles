@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1548558998
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: scene/simplemainmenu.ab_0
+      Dependencies: {}
+    Info_1:
+      Name: objects
+      Dependencies: {}
